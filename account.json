@@ -1,0 +1,10 @@
+[
+  {
+    "privateKey": "YOUR_FASTSET_PK_1",
+    "address": "YOUR_FASTSET_ADDRESS_1"
+  },
+  {
+    "privateKey": "YOUR_FASTSET_PK_2",
+    "address": "YOUR_FASTSET_ADDRESS_2"
+  }
+]

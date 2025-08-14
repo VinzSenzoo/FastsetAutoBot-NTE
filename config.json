@@ -1,0 +1,25 @@
+{
+  "sendRepetitions": 10,
+  "tokenSendRanges": {
+    "SET": {
+      "min": 1,
+      "max": 10
+    },
+    "USDC": {
+      "min": 1,
+      "max": 5
+    },
+    "ETH": {
+      "min": 0.01,
+      "max": 0.05
+    },
+    "SOL": {
+      "min": 0.01,
+      "max": 0.03
+    },
+    "BTC": {
+      "min": 0.001,
+      "max": 0.003
+    }
+  }
+}
